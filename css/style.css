@@ -102,11 +102,33 @@ footer {
     background-color: #5cb0ff;
     clear: both;
     color: #ffffff;
+    font-size: 14px
 }
 
+footer a:link { 
+
+    text-decoration: none
+
+}
+
+footer a:hover {
+    color: #CC33FF
+    
+}
+
+footer a:active{
+    color: #fff
+}
 footer ul {
     list-style-type: none;
+    line-height: 50px
 }
+
+
+
+footer li {
+    color: #000
+}    
 
 .wrapper {
     margin: 0 auto;
@@ -186,6 +208,24 @@ footer ul {
 .promo h3 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+.first {
+line-height: 10    
+}
+
+.second {
+line-height: 10    
+}
+
+.thirdy{
+    margin-top: 40px
+
+}
+
+.social {  
+    
+    font-size:10px
 }
 
 .featured img {
