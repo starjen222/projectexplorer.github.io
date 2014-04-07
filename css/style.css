@@ -131,6 +131,11 @@ footer ul {
     line-height: 50px
 }
 
+footer ul li ol li { font-size:10px
+}
+
+ul li * li { font-family:fantasy
+}
 
 footer li {
     color: #000
