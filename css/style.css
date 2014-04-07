@@ -6,6 +6,7 @@
     padding:0;
 }
 
+
 body {
     font: 16px/24px 'Roboto Slab', serif;
 }
@@ -27,6 +28,7 @@ h2 {
 
 p {
     margin-bottom: 24px;
+
 }
 
 img {
@@ -69,8 +71,13 @@ aside h3 {
 }
 
 aside h3:first-child {
-    margin-bottom: 10px;
+    margin-bottom: 800px;
     margin-top: 10px;
+}
+
+aside h2: second-child
+{ color: #fff
+        
 }
 
 aside ul {
@@ -125,16 +132,24 @@ footer ul {
 }
 
 
-
 footer li {
     color: #000
-}    
+}
+
 
 .wrapper {
     margin: 0 auto;
     max-width: 960px;
+    border-bottom: #fff
     
 }
+
+.middlethree
+{border: 200px
+    
+}
+
+
 
 .full, .third, .half {
     margin-bottom: 32px;
